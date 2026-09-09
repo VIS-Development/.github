@@ -33,6 +33,8 @@ Projects published by the organization use the **Vivare License**, unless anothe
 
 ## Contact
 
+**Co-Owners / Founders**
+
 **y.r@vivare.vkws.kz**
 
 **v.a@vivare.vkws.kz**
